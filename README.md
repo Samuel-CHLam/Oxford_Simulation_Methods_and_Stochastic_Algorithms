@@ -4,7 +4,7 @@ This is the main repository for the CDT course of simulation methods and stochas
 
 ## Content
 
-- Question sheet 1 (2021 edition): Q1, Q2, Q3, Q4, Q5, Q6.
+- Question sheet 1 (2021 edition): [Q1](https://github.com/Samuel-CHLam/Oxford_Simulation_Methods_and_Stochastic_Algorithms/blob/main/PS1_Q1.ipynb), [Q2](https://github.com/Samuel-CHLam/Oxford_Simulation_Methods_and_Stochastic_Algorithms/blob/main/PS1_Q2.ipynb), Q3, Q4, Q5, Q6.
 - Question sheet 2 (2021 edition): Q1, Q2, Q3, Q4, Q5.
 
 ## Contribution
