@@ -3,7 +3,7 @@
 This is the main repository for the CDT course of simulation methods and stochastic algorithms offered at University and Oxford. 
 
 ## Content
-- Warm up task (taken from 2021 edition Q1)
+- [Warm up task](https://github.com/Samuel-CHLam/Oxford_Simulation_Methods_and_Stochastic_Algorithms/blob/main/WarmUp.ipynb) (taken from 2021 edition Q1)
 - [Question 1](https://github.com/Samuel-CHLam/Oxford_Simulation_Methods_and_Stochastic_Algorithms/blob/main/Question_1.ipynb) (taken from 2021 edition Q2)
 - Question 2 (taken from 2021 edition Q3)
 - Question 3
